@@ -1,7 +1,7 @@
 ################################################################################
 # Luke's Pi-hole Blacklist
 # 
-# License: GPLv3
+# License: MIT
 # Project page: https://bitbucket.org/lwojcik/lukes-pihole-blacklist
 #
 ################################################################################
@@ -31,6 +31,7 @@ carmelita24.pl
 clients6.google.com
 cm.netseer.com
 coin-hive.com
+connect.facebook.net
 crashlytics.com
 dnaindia.com
 doesxyz.com
@@ -42,6 +43,7 @@ elkar24.pl
 extremetech.com
 facebook.com
 facebook.net
+fbcdn.net
 fiksu.com
 flashtalking.com
 forbesvid-a.akamaihd.net
@@ -193,7 +195,9 @@ wpcdn.pl
 wtapi.tohapp.com
 www.baidu.com
 www.baidu.com.gateway
+www.connect.facebook.net
 www.facebook.com
+www.facebook.net
 www.nugg.ad
 www.onaudience.com
 www.publicidees.com
