@@ -2,7 +2,7 @@
 
 This is a personal blacklist for my home Pi-hole deployment. I keep it here so that I can manage it outside of Pi-hole admin panel.
 
-The list URL: [https://bitbucket.org/lwojcik/lukes-pihole-blacklist/raw/HEAD/hosts.txt](https://bitbucket.org/lwojcik/lukes-pihole-blacklist/raw/HEAD/hosts.txt)
+The list URL: [https://raw.githubusercontent.com/lwojcik/lukes-pihole-blacklist/master/hosts.txt](https://raw.githubusercontent.com/lwojcik/lukes-pihole-blacklist/master/hosts.txt)
 
 To learn what Pi-hole is, visit [https://pi-hole.net/](https://pi-hole.net/).
 
@@ -12,6 +12,6 @@ Should you have any questions, visit [https://lukaszwojcik.net/](https://lukaszw
 
 ## Project page
 
-https://bitbucket.org/lwojcik/lukes-pihole-blacklist
+https://github.com/lwojcik/lukes-pihole-blacklist
 
 Licensed under MIT license. See [LICENSE](https://bitbucket.org/lwojcik/lukes-pihole-blacklist/raw/HEAD/LICENSE) for more info.
