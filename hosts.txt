@@ -2,7 +2,7 @@
 # Luke's Pi-hole Blacklist
 # 
 # License: MIT
-# Project page: https://bitbucket.org/lwojcik/lukes-pihole-blacklist
+# Project page: https://github.com/lwojcik/lukes-pihole-blacklist
 #
 ################################################################################
 
