@@ -272,7 +272,9 @@ googletagservices.com
 googlesyndication.com
 imageart.net
 gamingtribe.com
+www.gamingtribe.com
 twitter.com
 reddit.com
+www.reddit.com
 gtri.be
 static.gtri.be
