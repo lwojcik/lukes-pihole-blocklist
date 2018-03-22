@@ -271,3 +271,6 @@ contentsystem.pl
 googletagservices.com
 googlesyndication.com
 imageart.net
+gamingtribe.com
+twitter.com
+reddit.com
