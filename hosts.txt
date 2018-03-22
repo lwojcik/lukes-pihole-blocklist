@@ -274,3 +274,5 @@ imageart.net
 gamingtribe.com
 twitter.com
 reddit.com
+gtri.be
+static.gtri.be
