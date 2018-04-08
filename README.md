@@ -14,4 +14,4 @@ Should you have any questions, visit [https://lukaszwojcik.net/](https://lukaszw
 
 https://github.com/lwojcik/lukes-pihole-blacklist
 
-Licensed under MIT license. See [LICENSE](https://bitbucket.org/lwojcik/lukes-pihole-blacklist/raw/HEAD/LICENSE) for more info.
+Licensed under MIT license. See [LICENSE](https://raw.githubusercontent.com/lwojcik/lukes-pihole-blacklist/master/LICENSE) for more info.
