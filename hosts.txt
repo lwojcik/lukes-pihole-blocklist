@@ -253,3 +253,4 @@ tiqcdn.com
 gigya.com
 limespot.com
 socialminer.com
+zummycloud.com
