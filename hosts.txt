@@ -250,3 +250,6 @@ qubit.com
 qubitproducts.com
 augur.io
 tiqcdn.com
+gigya.com
+limespot.com
+socialminer.com
