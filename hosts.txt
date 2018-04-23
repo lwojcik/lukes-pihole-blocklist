@@ -248,3 +248,5 @@ palantir.com
 props.id
 qubit.com
 qubitproducts.com
+augur.io
+tiqcdn.com
