@@ -240,3 +240,11 @@ reddit.com
 www.reddit.com
 gtri.be
 static.gtri.be
+lytics.io
+c.lytics.io
+ntkv1.ru
+natimatica.com
+palantir.com
+props.id
+qubit.com
+qubitproducts.com
