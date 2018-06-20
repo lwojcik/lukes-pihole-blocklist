@@ -6,7 +6,6 @@
 #
 ################################################################################
 
-activate.adobe.com
 ad-choices.nuggad.net
 ad.zanox.com
 adf.ly
@@ -132,7 +131,6 @@ socialmedia-statistics.tvn24bis.pl
 spodsceny.pl
 static-pl.plista.com
 stats.appsflyer.com
-swupmf.adobe.com
 sync.ipredictive.com
 taobao.com
 tctmobile.com
