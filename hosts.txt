@@ -263,3 +263,4 @@ unroll.me
 hubspot.com
 getsidekick.com
 sidekickopen.com
+t.sidekickopen.com
