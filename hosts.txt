@@ -266,3 +266,4 @@ t.sidekickopen.com
 t.sidekickopen01.com
 t.sidekickopen72.com
 t.sidekickopen75.com
+trinsly.com
