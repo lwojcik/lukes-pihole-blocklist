@@ -268,3 +268,5 @@ t.sidekickopen72.com
 t.sidekickopen75.com
 trinsly.com
 cammio.com
+lever-analytics.com
+t.lever-analytics.com
