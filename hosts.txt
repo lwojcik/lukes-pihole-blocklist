@@ -148,9 +148,6 @@ vsh.visilabs.net
 vtracy.de
 wirtualnemedia.pl
 wisepops.com
-wp.eu
-wp.pl
-wpcdn.pl
 wtapi.tohapp.com
 www.baidu.com
 www.baidu.com.gateway
