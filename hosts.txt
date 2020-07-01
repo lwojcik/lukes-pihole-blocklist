@@ -1,5 +1,5 @@
 ################################################################################
-# Luke's Pi-hole Blacklist
+# Luke's Pi-hole Blocklist
 # 
 # License: MIT
 # Original URL: https://pihole.lukem.net/hosts.txt
