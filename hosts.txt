@@ -23,7 +23,6 @@ asense.in
 askmen.com
 baidu.com
 baidu.com.gateway
-bit.ly
 businesswire.com
 c1.adform.net
 caclub.in
@@ -60,9 +59,7 @@ hsl1.hsmartlink.com
 hsl1.hsmartlink.com.gateway
 hsmartlink.com
 img1.blogblog.com
-innpoland.pl
 instagram.com
-interia.pl
 iotcplatform.com
 ipredictive.com
 izatcloud.net
@@ -85,7 +82,6 @@ n.natureapi.com
 napiservice.com
 natemat.onesignal.com
 natemat.os.tc
-natemat.pl
 natureapi.com
 newrelic.com
 nk.pl
@@ -159,7 +155,6 @@ www.onaudience.com
 www.publicidees.com
 www.quantcast.com
 www.visualdna.com
-www.youtube-nocookie.com
 www.ziffdavis.com
 wykop.pl
 xcsgthqj.bid
@@ -187,8 +182,6 @@ clicktale.net
 decibelinsight.net
 userreplay.com
 userreplay.net
-spidersweb.pl
-antyweb.pl
 demotywatory.pl
 kwejk.pl
 jbzd.pl
@@ -197,7 +190,6 @@ sh.st
 popmyads.com
 clickadu.com
 clickfunnels.com
-benchmark.pl
 deloton.com
 junbi-tracker.com
 dtxngr.com
@@ -226,7 +218,6 @@ nextclick.pl
 toteraz.pl
 strawpoli.me
 www.strawpoli.me
-mediarun.pl
 ebaumsworld.com
 dvorak.org
 soulsphere.org
@@ -255,7 +246,6 @@ limespot.com
 socialminer.com
 zummycloud.com
 unroll.me
-hubspot.com
 sidekickopen.com
 t.sidekickopen.com
 t.sidekickopen01.com
@@ -265,7 +255,3 @@ trinsly.com
 cammio.com
 lever-analytics.com
 t.lever-analytics.com
-netflix.com
-www.netflix.com
-corp.plusnet
-proxysg.corp.plusnet
