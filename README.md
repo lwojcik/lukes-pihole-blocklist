@@ -1,4 +1,4 @@
-# Luke's Pi-hole Blacklist
+# Luke's Pi-hole Blocklist
 
 This is my personal blacklist for my home Pi-hole deployment. I keep it here so that I can manage it outside of Pi-hole admin panel.
 
