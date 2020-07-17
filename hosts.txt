@@ -91,8 +91,6 @@ nscontext.eu
 nugg.ad
 o2.pl
 onaudience.com
-onet.eu
-onet.pl
 onscroll.com
 oo.rfihub.com
 opq2.pl
@@ -134,7 +132,6 @@ tinder.com
 tinyurl.com
 tnij.org
 tohapp.com
-tvnmedia.pl
 ufz.doesxyz.com
 unblock.onaudience.com
 visilabs.net
