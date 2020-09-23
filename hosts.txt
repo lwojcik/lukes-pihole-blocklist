@@ -1,9 +1,9 @@
 ################################################################################
 # Luke's Pi-hole Blocklist
 # 
-# License: MIT
+# License: The Unlicense
 # Original URL: https://pihole.lukem.net/hosts.txt
-# Project page: https://github.com/lwojcik/lukes-pihole-blacklist
+# Project page: https://github.com/lwojcik/lukes-pihole-blocklist
 #
 ################################################################################
 
