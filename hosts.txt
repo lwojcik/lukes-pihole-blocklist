@@ -84,7 +84,6 @@ natemat.onesignal.com
 natemat.os.tc
 natureapi.com
 newrelic.com
-nk.pl
 nsaudience.pl
 nscontext.com
 nscontext.eu
@@ -246,3 +245,5 @@ cammio.com
 lever-analytics.com
 t.lever-analytics.com
 buddy.works
+nyl.as
+nylas.com
