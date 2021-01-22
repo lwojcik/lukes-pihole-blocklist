@@ -194,8 +194,6 @@ customer.api.drift.com
 ws.api.drift.com
 driftt.com
 js.driftt.com
-js.hsforms.net
-hsforms.net
 www.userreplay.com
 userreplay.net
 decibelinsight.net
